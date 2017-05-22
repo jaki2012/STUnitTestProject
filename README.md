@@ -1,5 +1,6 @@
-# Announcements fot Software Testing Unit Test Project
-    Hello，大家好，这是你们软件测试课程单元测试项目提交的相关注意事项
+# Announcements for Software Testing Unit Test Project
+    Hello，大家好!
+    这是你们软件测试课程单元测试项目提交的相关注意事项
 
 > 测试用例编号约定
 ***
@@ -21,7 +22,6 @@
 >>> 1. 单元测试驱动和桩代码、单元测试脚本
 >>> 2. 单元测试日志
 >>> 3. 任何你们觉得在这次单元测试项目中有亮点的东西，如开源工具，创新思路等
->>> 4. *任何你们觉得可以收买助教的东西* <br/> 
->>>      ###### ↑↑↑↑↑~~这个可以没有hhhh~~↑↑↑↑↑
+>>> 4. 任何你们觉得可以收买助教的东西<br>
+###### ↑↑↑↑↑~~这个可以没有hhhh~~:blush:↑↑↑↑↑
 
-This is [an example][id] reference-style link
